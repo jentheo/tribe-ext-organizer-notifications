@@ -35,6 +35,10 @@ We're always interested in your feedback and our [Help Desk](https://support.the
 
 == Changelog ==
 
+= [1.0.3] 2025-01-27 =
+
+* Tweak - Ensure emails use the Sender Information options from Event Tickets settings
+
 = [1.0.2] 2022-08-11 =
 
 * Feature - Add support for Tickets Commerce [EXT-281]
